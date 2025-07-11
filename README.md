@@ -15,6 +15,8 @@ This is a simple and interactive **Cricket Over Tracker** project made for pract
 
 
 💻 Tech Stack
+
+
 HTML5 — Markup structure
 
 CSS3 — Stylish pink & white theme
